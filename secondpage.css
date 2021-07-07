@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+section{
+    background: rgb(132,211,219);
+    background: radial-gradient(circle, rgba(132,211,219,1) 6%, rgba(19,6,61,1) 79%);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    color:rgb(231, 227, 165);
+ }
